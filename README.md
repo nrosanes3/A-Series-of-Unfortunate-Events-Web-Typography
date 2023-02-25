@@ -5,8 +5,8 @@
 ## Features
 * Improved readability, attractiveness, and overall design aesthetic of provided content.
 * Appropriate font choices and typographic scale.
- * Typgraphic Principles:
-Effective Whitespace: Text is not cramped, and whitespace is used to aid in readability.
+  Typgraphic Principles:
+  * Effective Whitespace: Text is not cramped, and whitespace is used to aid in readability.
 Measure: The line length of the content is controlled and within the 45 to 75 character range, and the text is within a fixed-width container. (5 points)
 Typographic Scale: The scale has been changed from the browser default.
 Leading and Vertical Rhythm: Line height is controlled and adjusted depending on the font choices. (5 points)

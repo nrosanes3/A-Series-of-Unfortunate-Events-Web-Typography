@@ -11,7 +11,7 @@
   * Typographic Scale: The scale has been changed from the browser default.
   * Leading and Vertical Rhythm: Line height is controlled and adjusted depending on the font choices.
   * Text Alignment: Conventional alignment is used for the vast majority of text, with center or right alignment    used purposefully.
-All sizing uses relative measurements only: Em's or Rem's with fallback.
+  * All sizing uses relative measurements only: Em's or Rem's with fallback.
 * Baseline grid techniques and web fonts used.
 * Content is marked up using coding best practices.
 * Imagery used to support the article (optional).

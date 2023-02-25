@@ -1,0 +1,234 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color:black;
+    width: 120rem;
+    margin: auto;
+    font-family:'IM Fell DW Pica', serif;
+    font-size: 1.8rem;
+    line-height: 1.5;
+    background-size: auto 2.7rem;
+}
+
+.background-web {
+    background-image: url(../img/background-web.png);
+    background-size: 120rem;
+    height: 1390rem;
+    background-repeat: no-repeat;
+}
+header {
+    background-image: url(../img/header-poster.png);
+    background-size: 120rem;
+    background-repeat: no-repeat;
+    height: 72rem;
+    margin: 0 0 15rem 0;
+}
+
+.header-pic {
+    width: 96rem;
+}
+
+header div {
+    padding: 28rem 0 0 17rem;
+}
+
+header h2 {
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-size: 4.11rem;
+    color: #e0dabf;
+    margin-left: 18rem;
+    text-shadow: black .1rem 0 1rem;
+}
+
+header .h1-part-one {
+    font-family: 'IM Fell Double Pica SC', serif;
+    font-size: 3.375rem;
+    color: #c5bd91;
+    margin-left: 23rem;
+    text-shadow: black .1rem 0 1rem;
+}
+
+header .h1-part-two {
+    font-family: 'IM Fell Double Pica SC', serif;
+    font-size: 6.583rem;
+    color: #c5bd91;
+    text-shadow: black .1rem 0 1rem;
+}
+main h2 {
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-size: 4.624rem;
+    text-align: center;
+    margin-bottom: 24.3rem;
+    text-shadow: rgba(0, 0, 0, 0.692) .1rem 0 1rem;
+}
+
+/* ABOUT SECTION */
+.about {
+    width: 70rem;
+    margin: 0 auto 19.5rem auto;
+}
+
+.about p {
+    width: 59rem;
+    margin: 0 auto 2.7rem auto;
+
+}
+
+.about .starting-line {
+    margin-bottom: 5.4rem;
+}
+
+
+/* SYNOPSIS SECTION */
+
+.synopsis {
+    display: flex;
+    flex-flow: column nowrap;
+    width: 70rem;
+    margin: 0 auto 15.5rem auto;
+}
+.synopsis p {
+    width: 37rem;
+    margin: 0 0 5rem 0;
+}
+.synopsis .setting div {
+    display: flex;
+    flex-flow: wrap;
+    margin: 0 5.5rem 0 5.5rem;
+}
+.synopsis .plot div {
+    display: flex;
+    margin: 0 5.5rem 0 5.5rem;
+}
+
+.left-synopsis-photo {
+    width: 20rem;
+    height: 20rem;
+    margin: .5rem 2rem 0 0;
+}
+.right-synopsis-photo {
+    width: 20rem;
+    height: 20rem;
+    margin: .5rem 0 0 2rem;
+}
+
+.synopsis h3 {
+    font-family: 'IM Fell Double Pica SC', serif;
+    font-size: 2.887rem;
+    margin: 0 0 2.7rem 5.5rem;
+}
+
+.plot-heading {
+    padding-top: 2.7rem;
+}
+
+
+/* MAIN CHARACTERS SECTION */
+
+.main-characters {
+    display: flex;
+    flex-flow: column nowrap;
+    margin: 0 auto 11.5rem auto;
+}
+
+.main-characters section {
+    width: 37rem;
+    padding: 0 1rem;
+    margin-top: 4rem;
+}
+
+.main-characters h3 {
+    font-family: 'IM Fell Double Pica SC', serif;
+    font-size: 2.887rem;
+    text-align: center;
+    margin-bottom: 2.7rem;
+}
+.main-characters div {
+    display: flex;
+    margin: 0 auto 8.1rem auto;
+}
+
+.main-characters img {
+    width: 12.5rem;
+    height: 12.5rem;
+}
+
+/* SUPPORTING CHARACTERS SECTION */
+
+.supporting-characters {
+    display: flex;
+    flex-flow: column nowrap;
+    margin: 0 auto 12.5rem auto;
+}
+
+.supporting-characters section {
+    width: 37rem;
+    padding: 0 1rem;
+    margin-top: 4rem;
+}
+
+.supporting-characters h4 {
+    font-size: 3.247rem;
+    text-align: center;
+    margin-bottom: 8.1rem;
+}
+
+.supporting-characters h3 {
+    font-family: 'IM Fell Double Pica SC', serif;
+    font-size: 2.887rem;
+    text-align: center;
+    margin-bottom: 2.7rem;
+}
+.supporting-characters div {
+    display: flex;
+    margin: 0 auto 8.1rem auto;
+}
+
+.supporting-characters img {
+    width: 12.5rem;
+    height: 12.5rem;
+}
+
+/* NARRATION STYLE SECTION */
+.narration-style p {
+    width: 59rem;
+    margin: 0 auto 2.7rem auto;
+
+}
+
+.narration-style .closing-line {
+    margin-top: 5.4rem;
+}
+
+.narration-style .signature {
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-size: 4.11rem;
+}
+
+.narration-style-picture {
+    height: 15rem;
+    width: 30rem;
+    justify-content: center;
+    margin: 0 0 1.5rem 45rem
+}
+
+
+/* FOOTER SECTION */
+footer {
+   text-align: center;
+}
+footer h4 {
+    font-family: 'Mrs Saint Delafield', cursive;
+    font-size: 4.624rem;
+    margin-top: 60rem;
+    text-shadow: #c5bd91 .1rem 0 .6rem;
+}
+footer p {
+    text-shadow: #c5bd91 .1rem 0 .6rem;
+}
+footer a {
+    text-decoration: none;
+    color: black;
+}
